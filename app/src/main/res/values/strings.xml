@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login Tries</string>
+    <string name="confirm_text">Confirm</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="username_text">Username</string>
+    <string name="username_placeholder">Please insert your username</string>
+    <string name="password_text">Password</string>
+    <string name="password_placeholder">Please insert your password</string>
+    <string name="config_text">Config</string>
+    <string name="leave_text">Leave</string>
+    <string name="c_username_text">Username</string>
+    <string name="c_username_placeholder">Please insert your new username</string>
+    <string name="c_password_text">Password</string>
+    <string name="c_password_placeholder">Please insert your new password</string>
+    <string name="c_confirm_text">Confirm</string>
+    <string name="c_confirm_placeholder">Please confirm your new password</string>
+</resources>

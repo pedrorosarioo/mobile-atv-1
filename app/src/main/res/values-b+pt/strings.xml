@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tentativas de login</string>
+    <string name="confirm_text">Confirmar</string>
+    <string name="cancel_text">Cancelar</string>
+    <string name="username_text">Usuario</string>
+    <string name="username_placeholder">Insira seu nome</string>
+    <string name="password_text">Senha</string>
+    <string name="password_placeholder">Insira a sua senha</string>
+    <string name="config_text">Configurações</string>
+    <string name="leave_text">Sair</string>
+    <string name="c_username_text">Usuario</string>
+    <string name="c_username_placeholder">Por favor, insira seu novo nome</string>
+    <string name="c_password_text">Senha</string>
+    <string name="c_password_placeholder">Por favor, insira sua nova senha</string>
+    <string name="c_confirm_text">Confirmar</string>
+    <string name="c_confirm_placeholder">Por favor, confirme sua nova senha</string>
+</resources>
